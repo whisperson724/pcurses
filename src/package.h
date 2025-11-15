@@ -24,7 +24,7 @@
 
 #include "attributeinfo.h"
 
-typedef struct __alpm_pkg_t alpm_pkg_t;
+typedef struct _alpm_pkg_t alpm_pkg_t;
 
 enum InstallReasonEnum {
     IRE_EXPLICIT,

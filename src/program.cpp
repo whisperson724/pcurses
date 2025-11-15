@@ -38,7 +38,7 @@ using boost::xpressive::regex_constants::icase;
 using boost::xpressive::smatch;
 using boost::xpressive::sregex;
 
-typedef struct __alpm_list_t alpm_list_t;
+typedef struct _alpm_list_t alpm_list_t;
 
 #define PIPE_READ 0
 #define PIPE_WRITE 1
